@@ -3,7 +3,7 @@ package d30m12y24;
 import java.util.Arrays;
 
 public class MoveZerostoEnd {
-    public static void MZTE(int[] arr) {
+    public  void MZTE(int[] arr) {
         int j = 0; //  how may Non-zeroz where there
         
 

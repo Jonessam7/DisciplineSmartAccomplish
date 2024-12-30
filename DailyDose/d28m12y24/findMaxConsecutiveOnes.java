@@ -3,7 +3,6 @@ package d28m12y24;
 public class findMaxConsecutiveOnes {
 
   public static int FMCO(int[] arr){
-    int n=arr.length;
     int ones =0;
     int count=0;
      for (int i = 0; i < arr.length; i++) {

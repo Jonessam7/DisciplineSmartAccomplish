@@ -16,5 +16,6 @@ public class LinearSearch {
     int trg = in.nextInt();
     int ans = search(nums, trg);
     System.out.println(ans);
+    in.close();
   }
 }
