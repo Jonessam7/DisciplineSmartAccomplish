@@ -1,4 +1,4 @@
-package DisciplineSmartAccomplish.DailyCode.d5m01y25;
+package DisciplineSmartAccomplish.DailyCode.d05m01y25;
 
 import java.util.HashMap;
 
